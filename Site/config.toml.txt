@@ -2,7 +2,6 @@ baseURL = "https://omxpro.github.io/output"
 languageCode = "en-us"
 title = "Welcome to my Portfolio! 👋"
 theme = "digitalgarden"
-publishDir = "code"
 googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
@@ -10,7 +9,7 @@ googleAnalytics = "UA-PROPERTY_ID"
   images = ['/digital-garden-logo.png']
 
 [Params.newsletter]
-  title = ""
+  title = "Weekly/Monthly newspaper"
   description = "A curated weekly digest once a week to your mailbox"
   path = "https://www.getrevue.co/profile/username/add_subscriber"
 
